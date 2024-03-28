@@ -1,4 +1,4 @@
-## Disable built-in Administrator account on Windows Server
+## Disable built-in Administrator account
 ### About
 Disabling the built-in Administrator account on Windows Server is often considered a security best practice
 1. Open Computer Management
